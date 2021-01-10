@@ -1,7 +1,6 @@
 Sub Duo()
 Call VBA_HOMEWORK
 Call Bonus
-Call Closing
 End Sub
 Function VBA_HOMEWORK()
 'Set Variables
@@ -142,8 +141,4 @@ Next C
 ws.Range("P2:P3").NumberFormat = "0.00%"
 ws.Range("P4").NumberFormat = "000,00"
 Next ws
-End Function
-Function Closing()
-':)
-MsgBox ("Have a great rest of your day! :)")
 End Function
