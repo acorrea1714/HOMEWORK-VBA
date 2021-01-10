@@ -6,4 +6,4 @@
 ![2015](Images/2015.png)
 
 ## 2016 Stock Data
-![2017](Images/2016.png)
+![2016](Images/2016.png)
